@@ -51,7 +51,7 @@ A modern hotel booking application built with Laravel 12 and React, featuring ad
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sahapranta/hotel
    cd hotel
    ```
 
@@ -77,8 +77,8 @@ A modern hotel booking application built with Laravel 12 and React, featuring ad
    ```
 
 6. **Access the application**
-   - Application: http://localhost
-   - Admin Dashboard: http://localhost/admin/dashboard
+   - Application: http://localhost:8000
+   - Admin Dashboard: http://localhost:8000/admin/dashboard
 
 ### Manual Setup
 
