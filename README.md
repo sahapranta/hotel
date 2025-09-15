@@ -2,16 +2,9 @@
 
 A modern hotel booking application built with Laravel 12 and React, featuring advanced search capabilities with Elasticsearch integration, real-time booking management, and a beautiful responsive UI.
 
-## 🚀 Features
+## 🚀 Overview
 
-- **Advanced Hotel Search**: Full-text search with Elasticsearch integration and database fallback
-- **Booking Management**: Complete booking lifecycle with status tracking
-- **User Authentication**: Secure user registration and authentication
-- **Admin Dashboard**: Hotel and booking management for administrators
-- **Media Management**: Hotel image uploads and management
-- **Responsive Design**: Modern UI built with React, TypeScript, and Tailwind CSS
-- **Real-time Updates**: Live search and booking updates
-- **Search Analytics**: Track search performance and user behavior
+<iframe width="640" height="416" src="https://www.loom.com/embed/610d6d94076a47b3b5a99d959d32eece?sid=e83f1d3b-fc1e-4f81-be92-44cbe1809057" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## 🛠️ Tech Stack
 
