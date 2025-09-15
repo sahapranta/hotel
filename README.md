@@ -4,7 +4,7 @@ A modern hotel booking application built with Laravel 12 and React, featuring ad
 
 ## 🚀 Overview
 
-[<iframe width="640" height="416" src="https://www.loom.com/embed/610d6d94076a47b3b5a99d959d32eece?sid=e83f1d3b-fc1e-4f81-be92-44cbe1809057" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>](https://www.loom.com/share/610d6d94076a47b3b5a99d959d32eece?sid=dc85c15c-9c78-43ab-ad67-952d7267eff6)
+https://www.loom.com/share/610d6d94076a47b3b5a99d959d32eece?sid=07e4abd7-a5fc-4928-9e3b-c02194a5c6b0
 
 ## 🛠️ Tech Stack
 
